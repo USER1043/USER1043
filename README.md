@@ -1,14 +1,14 @@
 - 👋 Hey, I’m Prajan Karthik
-- 👀 I’m interested in 
+- 👀 I’m interested \n
       Cyber Security and Web Development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning \n
       Incident Detection and Response, started to look into Web Dev - React js
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on \n
       ideas related to hacking tools and full stack projects. Feel free to reach me, if you are interested!
 - 📫 How to reach me 
-      Email: prjnkrthk@gmail.com
+      Email: prjnkrthk@gmail.com \n
       LinkedIn : www.linkedin.com/in/prajan-karthik-72a799295
-- ⚡ Fun fact
+- ⚡ Fun fact \n
       Python is my third language!
 <!---
 USER1043/USER1043 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
