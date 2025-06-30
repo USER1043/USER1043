@@ -9,6 +9,7 @@
 
 <div align="center">
 <i><b>🎓 CS Undergrad | 🛠️ MERN & React Native Dev | 🛡️ Future Ethical Hacker </b></i>
+    <br>
   <br>
 ⚙️  Projects: <b>Arduino car in C, MERN e-commerce, React Native finance tracker</b> <br>
 💻  Obsessed with developing <b>secure developing applications and Music🎧</b> <br>
