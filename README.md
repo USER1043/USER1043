@@ -5,16 +5,16 @@
 </h1>
 
 <!-- Bio -->
-<h3 align="center"> Balancing studies and side projects, one Git commit at a time.😉 </h3>
+<h3 align="center"> Balancing studies and Projects, one Git commit at a time.😉 </h3>
 
 <div align="center">
-<i><b>🎓 CS Undergrad | 🛠️ MERN & React Native Dev | 🛡️ Future Ethical Hacker </b></i>
+<b> CS Undergrad | Full Stack Application Dev | Security Enthusiast</b>
     <br>
   <br>
-⚙️  Projects: <b>Arduino car in C, MERN e-commerce, React Native finance tracker</b> <br>
-💻  Obsessed with developing <b>secure developing applications and Music🎧</b> <br>
-💞️  Feel free to reach me on <b>hacking tools and full stack projects.  we can collaborate!</b><br>
-🧠  <b>Always shipping, always learning.</b> <br>
+Projects: <b> Secure Scholarship Application System, Mobile based Finance tracker, E-commerce platform </b> <br>
+Interested in developing <b>secure applications🔐 and Music🎧</b> <br>
+Feel free to reach me 😄 about <b>hacking tools and software projects. we can collaborate💪!</b><br>
+<b>Always Curious about the world around me! 😉</b> <br>
 </div>
 <br>
 <!-- Contact methods -->
@@ -32,24 +32,23 @@
 
  <hr/>
 <!-- My Skill set -->
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=express,mongodb,react,vite,nodejs,tailwindcss,arch,vercel,postgresql,mysql,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=react,tailwindcss,nodejs,express,npm,electron,mongodb,postgresql,mysql,vitest,vercel,html,css,javascript" />
     <br>
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,haskell,vscode,github,git,matlab,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,vscode,vim,docker,github,git,arch,ubuntu,windows" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats 🌟</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=USER1043&theme=react&border_radius=10&rank_icon=github" alt="readme stats"/>
-  <img width=400 src="https://streak-stats.demolab.com/?user=USER1043&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="streak stats" />
+  <img alt="Prajan's Github Stats" src="https://github-readme-stats-ten-green-79.vercel.app/api/?username=USER1043&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Prajan's Top Languages" src="https://github-readme-stats-ten-green-79.vercel.app/api/top-langs/?username=USER1043&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <br/>
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER1043&layout=compact&hide=HTML&langs_count=8&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
