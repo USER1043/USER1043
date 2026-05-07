@@ -43,12 +43,10 @@ Feel free to reach me 😄 about <b>hacking tools and software projects. we can 
 <br/>
 <hr/>
 
-<h2 align="center"> Stats 🌟</h2>
+<h2 align="center"> PortFolio Website 👨‍💻</h2>
 <br>
 <div align=center>
-  <img alt="Prajan's Github Stats" src="https://github-readme-stats-ten-green-79.vercel.app/api/?username=USER1043&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    <img alt="Prajan's Top Languages" src="https://github-readme-stats-ten-green-79.vercel.app/api/top-langs/?username=USER1043&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <br/>
+ <a href="https://prajan-portfolio-website.vercel.app/"> Website Link </a>
 </div>
 
 <br/><br/>
