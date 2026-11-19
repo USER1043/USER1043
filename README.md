@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 ---> 
 
 # Prajan Karthik 👨‍💻
-*CS Undergrad · Chennai, India*
+*CS Undergrad · Coimbatore, India*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16¢er=false&vCenter=true&width=500&height=50&duration=3500&color=2DD4BF&lines=Hello+There!+👋;I'm+Prajan+Karthik;Full+Stack+Engineer;Security+Enthusiast+🔐;Always+building+something+🛠️)](https://git.io/typing-svg)
 
